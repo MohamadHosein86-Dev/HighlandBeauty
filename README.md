@@ -1,25 +1,22 @@
+<h2 align="left"> HighlandBeauty! 💄✨ </h2>
 
-<h2 align="left"> Welcome to the WorldWise App! 🌍 </h2>
+<h4 align="left">
+Discover beauty redefined. 🌿 HighlandBeauty is your destination for premium skincare and cosmetic products, curated with care and powered by modern tech. Shop effortlessly, explore new arrivals, and enjoy a seamless online experience. 💅🛍️
+</h4>
 
-
-<h4 align="left">Explore the world like never before! 🌟 Dive into a world of knowledge, trivia, and exciting challenges. Learn about different countries, cultures, and more, all while having fun! Answer questions, earn rewards, and track your progress on the global leaderboard! 🚀🎮</h4>
-
-<strong>Demo : https://nobat-doctors.liara.run/</strong> 
-<br>
+<strong>Demo: https://gallant-franklin-mpqgrfzur.liara.run/</strong>
+<br />
 
 <p>
 <h2>🛠️ Features:</h2>
 
-🔧 State Management with useReducer: Efficiently manage the app’s state and ensure smooth user experience. 
+🔐 Authenticated Shopping: Users can sign in to access their personalized cart and order history. <br>
 
-🖥️ Tech Stack: Built with React, powered by JavaScript, HTML, and CSS to deliver a modern and responsive interface. 
+🛒 Smart Cart: Add, remove, and manage items effortlessly in a fully interactive shopping cart. <br>
 
-🎯 Interactive Quiz: Answer questions and track your scores in real-time! 
+⚛️ Built with React: Fast UI powered by React, JavaScript, and CSS. <br>
 
-🏆 Leaderboard: Compete with others globally and see how your scores compare! 
+🔧 State Management: useReducer + Context API for efficient app-wide state control. <br>
 
-🌏🎮 Get ready to test your knowledge and see how well you know the world! 
-
+📦 Seamless UX: Smooth transitions, clean layout, and responsive design on all devices.
 </p>
-
-
