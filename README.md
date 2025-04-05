@@ -3,7 +3,7 @@
 <h4 align="left">
 Discover beauty redefined. 🌿 HighlandBeauty is your destination for premium skincare and cosmetic products, curated with care and powered by modern tech. Shop effortlessly, explore new arrivals, and enjoy a seamless online experience. 💅🛍️
 </h4>
-
+ 
 <strong>Demo: https://gallant-franklin-mpqgrfzur.liara.run/</strong>
 <br />
 
